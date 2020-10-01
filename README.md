@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/priyanshsingh/alexa-skills/readme/amazon-alexa-vector-logo.jpg">
 ## Alexa-APL-Fact-Skill - Monkey Facts
 
 Welcome!  You too create a "Fact Skill Compatible with APL" with the help of the Monkey Facts skill!  OK, just kidding, maybe.  This sample skill  demonstrate the Alexa Presentation Language (APL).  Ask for a fact and you'll be provided with an image and a fact about Monkey.
